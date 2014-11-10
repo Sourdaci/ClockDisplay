@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=newNumber
+comment0.target=NumberDisplay(int)
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ NumberDisplay.\r\n
+comment1.params=
+comment1.target=int\ getTime()
+comment1.text=\r\n\ Devuelve\ el\ valor\ almacenado\ en\ el\ numero\ del\ display.\r\n
+comment2.params=newTime
+comment2.target=void\ setTime(int)
+comment2.text=\r\n\ Modifica\ el\ valor\ del\ numero\ almacenado\ en\ el\ display.\r\n
+numComments=3
